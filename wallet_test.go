@@ -1,4 +1,4 @@
-package gvite_demo
+package main_test
 
 import (
 	"io/ioutil"
