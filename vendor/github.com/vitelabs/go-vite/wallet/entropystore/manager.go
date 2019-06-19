@@ -206,6 +206,14 @@ func (km Manager) GetEntropyStoreFile() string {
 	return km.ks.EntropyStoreFilename
 }
 
+func (km Manager) ExtractMnemonic(passphrase string) (string, error) {
+	entropy, err := km.ks.ExtractEntropy(passphrase)
+	if err != nil {
+		return "", err
+	}
+	return bip39.NewMnemonic(entropy)
+}
+
 func StoreNewEntropy(storeDir string, mnemonic string, pwd string, maxSearchIndex uint32) (*Manager, error) {
 	entropy, e := bip39.EntropyFromMnemonic(mnemonic)
 	if e != nil {
@@ -230,6 +238,18 @@ func MnemonicToPrimaryAddr(mnemonic string) (primaryAddress *types.Address, e er
 		return nil, e
 	}
 	return primaryAddress, nil
+}
+
+func NewMnemonic() (mnemonic string, err error) {
+	entropy, err := bip39.NewEntropy(256)
+	if err != nil {
+		return "", err
+	}
+	mnemonic, err = bip39.NewMnemonic(entropy)
+	if err != nil {
+		return "", err
+	}
+	return mnemonic, nil
 }
 
 // it is very fast(in my mac 2.8GHZ intel cpu 10Ks search cost 728ms) so we dont need cache the relation

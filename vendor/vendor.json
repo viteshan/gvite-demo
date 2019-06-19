@@ -3,135 +3,916 @@
 	"ignore": "test",
 	"package": [
 		{
+			"checksumSHA1": "JIpZJdSwIH0aR4qDAx2BHd7sOfE=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/StackExchange/wmi",
+			"path": "github.com/StackExchange/wmi",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "8skJYOdQytXjimcDPLRW4tonX3A=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/allegro/bigcache",
+			"path": "github.com/allegro/bigcache",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "vtT7NcYLatJmxVQQEeSESyrgVg0=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/allegro/bigcache/queue",
+			"path": "github.com/allegro/bigcache/queue",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "vwNjR8772Pqs8z9ZdPFoatNI9Kg=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/deckarep/golang-set",
+			"path": "github.com/deckarep/golang-set",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "wgMR/DdK0gLwKfto03wDbAo2TQw=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/elastic/gosigar",
+			"path": "github.com/elastic/gosigar",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "RYRPGPM8/+BSC+bOnaeWQxL/tqM=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/elastic/gosigar/sys/windows",
+			"path": "github.com/elastic/gosigar/sys/windows",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "0en3ScKp323rcQknWZUt0T3kiUw=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/go-errors/errors",
+			"path": "github.com/go-errors/errors",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "O1aY6qwiK2XCiONb+gzcaxNhxdg=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/go-ole/go-ole",
+			"path": "github.com/go-ole/go-ole",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "PArleDBtadu2qO4hJwHR8a3IOTA=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/go-ole/go-ole/oleutil",
+			"path": "github.com/go-ole/go-ole/oleutil",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
 			"checksumSHA1": "KZ3QD2QgUS4RcoKiA3mn5pSlJxQ=",
 			"origin": "github.com/vitelabs/go-vite/vendor/github.com/go-stack/stack",
 			"path": "github.com/go-stack/stack",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "SEnjvwVyfuU2xBaOfXfwPD5MZqk=",
+			"checksumSHA1": "06pu4WTqbWBAHCJhCLZaI1droeM=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/golang-collections/collections/stack",
+			"path": "github.com/golang-collections/collections/stack",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "RBaxTzsPJwhrGAw2SDgL2+jLJ68=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/golang/mock/gomock",
+			"path": "github.com/golang/mock/gomock",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "Y2MOwzNZfl4NRNDbLCZa6sgx7O0=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/golang/protobuf/proto",
+			"path": "github.com/golang/protobuf/proto",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "h1d2lPZf6j2dW/mIqVnd1RdykDo=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/golang/snappy",
+			"path": "github.com/golang/snappy",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "4K1LTDKblIXwDEhNQULXcRKMbB0=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/hashicorp/golang-lru",
+			"path": "github.com/hashicorp/golang-lru",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "NvkV52M5EFd0kT4U+9A2Eu/kKr8=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/hashicorp/golang-lru/simplelru",
+			"path": "github.com/hashicorp/golang-lru/simplelru",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "qY+sf82+prpiaufb12bthn9yueQ=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/jerry-vite/BoomFilters",
+			"path": "github.com/jerry-vite/BoomFilters",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "XEV3BI3nHA/rNa/tIgB7fVCrDww=",
 			"origin": "github.com/vitelabs/go-vite/vendor/github.com/mattn/go-colorable",
 			"path": "github.com/mattn/go-colorable",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
 			"checksumSHA1": "w5RcOnfv5YDr3j2bd1YydkPiZx4=",
 			"origin": "github.com/vitelabs/go-vite/vendor/github.com/mattn/go-isatty",
 			"path": "github.com/mattn/go-isatty",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "ljd3FhYRJ91cLZz3wsH9BQQ2JbA=",
-			"origin": "github.com/vitelabs/go-vite/vendor/github.com/pkg/errors",
+			"checksumSHA1": "W8mzTLRjnooGtHwWaxSX8eq8hlY=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/patrickmn/go-cache",
+			"path": "github.com/patrickmn/go-cache",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "DTy0iJ2w5C+FDsN9EnzfhNmvS+o=",
 			"path": "github.com/pkg/errors",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "059132a15dd08d6704c67711dae0cf35ab991756",
+			"revisionTime": "2018-10-23T23:59:46Z"
 		},
 		{
-			"checksumSHA1": "TwXeqVAeWRsw5vd2iKCRno105tI=",
+			"checksumSHA1": "xGlhb4NZjBVCNSbb7GIMvhn6mQg=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/robfig/cron",
+			"path": "github.com/robfig/cron",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "hev23KrSfQ4KfosxH+gJKziFVtA=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/rs/cors",
+			"path": "github.com/rs/cors",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "ZRkivbqqxTXH267b+mFAEk55HRI=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/shirou/gopsutil/cpu",
+			"path": "github.com/shirou/gopsutil/cpu",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "j+lnhiTHzGU2/EOd2k2EceD7Mak=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/shirou/gopsutil/host",
+			"path": "github.com/shirou/gopsutil/host",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "GR7l7Ez4ppxIfonl7aJayYRVPWc=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/shirou/gopsutil/internal/common",
+			"path": "github.com/shirou/gopsutil/internal/common",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "ehcscnqRvxDZYb1nBDVzZi8vFi8=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/shirou/gopsutil/mem",
+			"path": "github.com/shirou/gopsutil/mem",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "wAc1Qo6T9MTYdSog78uJfCYZPtc=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/shirou/gopsutil/net",
+			"path": "github.com/shirou/gopsutil/net",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "28XUPH2JIWZgA+OXPoikgE8/Vow=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/shirou/gopsutil/process",
+			"path": "github.com/shirou/gopsutil/process",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "Nve7SpDmjsv6+rhkXAkfg/UQx94=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/shirou/w32",
+			"path": "github.com/shirou/w32",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "TJV50D0q8E3vtc90ibC+qOYdjrw=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb",
+			"path": "github.com/syndtr/goleveldb/leveldb",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "EKIow7XkgNdWvR/982ffIZxKG8Y=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/cache",
+			"path": "github.com/syndtr/goleveldb/leveldb/cache",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "5KPgnvCPlR0ysDAqo6jApzRQ3tw=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/comparer",
+			"path": "github.com/syndtr/goleveldb/leveldb/comparer",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "1DRAxdlWzS4U0xKN/yQ/fdNN7f0=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/errors",
+			"path": "github.com/syndtr/goleveldb/leveldb/errors",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "eqKeD6DS7eNCtxVYZEHHRKkyZrw=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/filter",
+			"path": "github.com/syndtr/goleveldb/leveldb/filter",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "weSsccMav4BCerDpSLzh3mMxAYo=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/iterator",
+			"path": "github.com/syndtr/goleveldb/leveldb/iterator",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "gJY7bRpELtO0PJpZXgPQ2BYFJ88=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/journal",
+			"path": "github.com/syndtr/goleveldb/leveldb/journal",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "MtYY1b2234y/MlS+djL8tXVAcQs=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/memdb",
+			"path": "github.com/syndtr/goleveldb/leveldb/memdb",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "UmQeotV+m8/FduKEfLOhjdp18rs=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/opt",
+			"path": "github.com/syndtr/goleveldb/leveldb/opt",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "QKNBzsr3IPrlGBeYSrOOPPoFgxs=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/storage",
+			"path": "github.com/syndtr/goleveldb/leveldb/storage",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "gWFPMz8OQeul0t54RM66yMTX49g=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/table",
+			"path": "github.com/syndtr/goleveldb/leveldb/table",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "V/Dh7NV0/fy/5jX1KaAjmGcNbzI=",
+			"origin": "github.com/vitelabs/go-vite/vendor/github.com/syndtr/goleveldb/leveldb/util",
+			"path": "github.com/syndtr/goleveldb/leveldb/util",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "SsMMqb3xn7hg1ZX5ugwZz5rzpx0=",
 			"origin": "github.com/vitelabs/go-vite/vendor/github.com/tyler-smith/go-bip39",
 			"path": "github.com/tyler-smith/go-bip39",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "+347vHML6CFl9flxJzDPoHmQA7Y=",
+			"checksumSHA1": "xa+UUbqD3zPfa8mKAxWabRsqSzM=",
 			"origin": "github.com/vitelabs/go-vite/vendor/github.com/tyler-smith/go-bip39/wordlists",
 			"path": "github.com/tyler-smith/go-bip39/wordlists",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "UHjQfbOc/y3oShWN+dcpxQ7IRac=",
+			"checksumSHA1": "su/2V/gsOSoQnzNwA4rou5WkTB4=",
+			"path": "github.com/vitelabs/go-vite",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "gPCAVir664xs/thblmi8HDwQGk8=",
+			"path": "github.com/vitelabs/go-vite/chain",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "w1wdSpKCqvnVlbSoZ2sfAxAW3g0=",
+			"path": "github.com/vitelabs/go-vite/chain/block",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "C4mJCeNurarhDfcPPVFHluaMZSg=",
+			"path": "github.com/vitelabs/go-vite/chain/cache",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "kEpLUrh5dv1/ftl+YK1qk2I5UIM=",
+			"path": "github.com/vitelabs/go-vite/chain/db",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "84juF/Hc9+XYwjBRJOVir3xq0QE=",
+			"path": "github.com/vitelabs/go-vite/chain/file_manager",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "h1maYHqohSFfkJ8MuGsyX03edtM=",
+			"path": "github.com/vitelabs/go-vite/chain/flusher",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "di+385YBtuRTPqhfIkeqvYKbUB4=",
+			"path": "github.com/vitelabs/go-vite/chain/genesis",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "Tf5fUtMEnyA8ESPd1O8wYSqhkyw=",
+			"path": "github.com/vitelabs/go-vite/chain/index",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "X2NQ36+7VQ1U0OIIbiPjlEYYxW0=",
+			"path": "github.com/vitelabs/go-vite/chain/plugins",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "+XJ9VCJx6NdeTqFYpOmHlJKALyg=",
+			"path": "github.com/vitelabs/go-vite/chain/state",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "XevomunJlyyAJuwzdAY2KqX1cVY=",
+			"path": "github.com/vitelabs/go-vite/chain/sync_cache",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "cq5cKUtYyK1Ms6C7I1oG5ObWtOw=",
+			"path": "github.com/vitelabs/go-vite/chain/utils",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "FDTK63RB83HZtjTPcRGSlxu6xbk=",
+			"path": "github.com/vitelabs/go-vite/client",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "gkc09KBmzshwTW6DSQ827QM70P4=",
+			"path": "github.com/vitelabs/go-vite/common",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "pMXEOrllTJpLAOktRfrWF0NpwT8=",
+			"path": "github.com/vitelabs/go-vite/common/db",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "9yEb1X+yGepce/6+G98qTUPk0xs=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "7ZqUZFp2fAwL/xN13d8V4jj+gHU=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/cache",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "5/1mUrpLFKdEUQvQ5PnW3ifi4VU=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/comparer",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "afOi7e52Vw6AxcdhyD3qgHGt/Dw=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/errors",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "l0p6XPdOjNr9iweRv8QYMX9UGPo=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/filter",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "4XSnr1NqNn/ANnqYTPRadYs4/Wk=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/iterator",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "QFZ+ZwpRQ4jtmpUHlj6ekkTwHuM=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/journal",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "z1sv+btFJmjP/la+1Sbv5BIoA3c=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/memdb",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "I5NxzFja3drIFHsxWsKMv9moHKQ=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/opt",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "FpAGTTZvDFhoPid/wo1puAtSQrc=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/storage",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "1OIu4VTSlfmQRtq7gG76MGipyoQ=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/table",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "bvyX7AV7APyUemhPpGW3UjfWRTs=",
+			"path": "github.com/vitelabs/go-vite/common/db/xleveldb/util",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "yLnx97Wp5Nn/j1t+4LHMWx0BtIg=",
+			"path": "github.com/vitelabs/go-vite/common/fileutils",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "7urtfVCIoP/VmgdScTYbU11JCJQ=",
+			"path": "github.com/vitelabs/go-vite/common/fork",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "2vW5s7UCu2vqye4yBy9c1owpTvI=",
+			"path": "github.com/vitelabs/go-vite/common/helper",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "yDqUM/AlfRtxC9mM8MbbGQRghj8=",
+			"path": "github.com/vitelabs/go-vite/common/hexutil",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "MEl4TL4jdRSOi5FDh0IlAQuruoc=",
+			"path": "github.com/vitelabs/go-vite/common/math",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "lTL2SXJlutzed7jl3CPc8moTDWM=",
 			"path": "github.com/vitelabs/go-vite/common/types",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "KgO5bL7X5EV5EiRON9roE9Qcb/o=",
+			"checksumSHA1": "6EV3foITyuOuquxaK0LxTdPGAPA=",
+			"path": "github.com/vitelabs/go-vite/config",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "YwhzxcVFKq+VhXVuqqMkYq51Els=",
+			"path": "github.com/vitelabs/go-vite/config/biz",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "yyW4TbsOV/J034BXRKX7BcDZZjw=",
+			"path": "github.com/vitelabs/go-vite/consensus",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "ocx44n8DpK4qcT5PvW/O+OrmJ0o=",
+			"path": "github.com/vitelabs/go-vite/consensus/cdb",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "P44vOKjteptNNu+JYW0zTbUi5ro=",
+			"path": "github.com/vitelabs/go-vite/consensus/core",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "JWdqQTAZKWZsCib/QrCcPpzmoR0=",
 			"path": "github.com/vitelabs/go-vite/crypto",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "jonxCWCsrxw1kigCy0yMqw/FwwA=",
+			"checksumSHA1": "mvxe/xS6qKB0NB+fOP1PPvqOOGQ=",
 			"path": "github.com/vitelabs/go-vite/crypto/ed25519",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "8dfsCv+kgxPJYcXlNlESDVdYAdc=",
+			"checksumSHA1": "V5DqAIAzU4gtuoBU1XCkoolX/8g=",
 			"path": "github.com/vitelabs/go-vite/crypto/ed25519/internal/edwards25519",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "6+nS839eHX3B+wo7dc5Ul9U0SM4=",
+			"checksumSHA1": "kJnswd9TP8vf/AuqBMREkdE2VNs=",
+			"path": "github.com/vitelabs/go-vite/generator",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "EmoWxo4TxwlM2ACn6d28OGeP53g=",
+			"path": "github.com/vitelabs/go-vite/interfaces",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "S3UvDBbV1VxiXLISThvXdfpyHbY=",
+			"path": "github.com/vitelabs/go-vite/ledger",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "7TeOz+MFplxX0yyQbFdYasrMFsk=",
 			"path": "github.com/vitelabs/go-vite/log15",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "Ayimo58EULRPvmzzNzbVZI/+MU4=",
+			"checksumSHA1": "oU6vlpZH7hFniyvvq7YQzbeL4HA=",
+			"path": "github.com/vitelabs/go-vite/metrics",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "Xy3voL3vU0+wrGcghYku6CD/k9w=",
+			"path": "github.com/vitelabs/go-vite/monitor",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "edBBBsmeniqJ/s5l515mElPOmvo=",
+			"path": "github.com/vitelabs/go-vite/onroad",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "N5yoflyXuR9eK+DICLr+TqOzIvo=",
+			"path": "github.com/vitelabs/go-vite/onroad/pool",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "PD1t0DGMWQgC4b6q7kDLOfPvGBs=",
+			"path": "github.com/vitelabs/go-vite/p2p",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "EGdrZnha+eLaAPKt6vJs0Zwge7k=",
+			"path": "github.com/vitelabs/go-vite/p2p/discovery",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "U9CgTOzTNH4S0vltiTvW2Up5whg=",
+			"path": "github.com/vitelabs/go-vite/p2p/discovery/protos",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "x1dUnuqzlqN+YwRe9GXmyKp+qIU=",
+			"path": "github.com/vitelabs/go-vite/p2p/netool",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "m+6TVu1vxIjgDlst0S1uwBnW64k=",
+			"path": "github.com/vitelabs/go-vite/p2p/vnode",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "BHlHUmTGtLyN8NvMULW5JA42spM=",
+			"path": "github.com/vitelabs/go-vite/p2p/vnode/protos",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "tEO0F3t4/aVHzNWYCl00RjtQFfY=",
+			"path": "github.com/vitelabs/go-vite/pool",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "l9vdq/dJCIk0eiVhxFLzHUHHEWc=",
+			"path": "github.com/vitelabs/go-vite/pool/batch",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "OatA6i75KB2IDx6cK30h3QB5NBs=",
+			"path": "github.com/vitelabs/go-vite/pool/lock",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "I/iaK5x2Cbwrauf3Yvu2Gp7OB8A=",
+			"path": "github.com/vitelabs/go-vite/pool/tree",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "5ZBVlf5WOqz6hFK+611l/khNkOU=",
+			"path": "github.com/vitelabs/go-vite/pow",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "oX5x6Bik4Yzv1e3s0N1G5uYZN7A=",
+			"path": "github.com/vitelabs/go-vite/pow/remote",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "jUwg2MtPjSCJnfxehIe2gkJxf/k=",
+			"path": "github.com/vitelabs/go-vite/producer",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "rYbTXI7sSufHJoaaNUSG0Ihh1EI=",
+			"path": "github.com/vitelabs/go-vite/producer/producerevent",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "WBvPC91z97Ljw4bc1smohevVvIw=",
+			"path": "github.com/vitelabs/go-vite/rpc",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "de7N64j+7OyvhGNHF01eper3Eoo=",
+			"path": "github.com/vitelabs/go-vite/rpcapi/api",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "EnhfRj2kxwyqxMpZDGiRUfTNiJw=",
+			"path": "github.com/vitelabs/go-vite/tools/bytes_pool",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "u8OrbrETtjyozwenDKPnAFJox6g=",
+			"path": "github.com/vitelabs/go-vite/tools/list",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "DPnz5/BHwOhr6FtTlXcTD/5Y8nI=",
+			"path": "github.com/vitelabs/go-vite/tools/ticket",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "iqWJfOQZbElYlGDNfI5UzgGApMw=",
+			"path": "github.com/vitelabs/go-vite/verifier",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "Bv2ccvluibD48If9Hupo0KmCUr8=",
+			"path": "github.com/vitelabs/go-vite/vite",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "3+PRTvydWm+k71NYzPdFqEaV/KU=",
+			"path": "github.com/vitelabs/go-vite/vite/net",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "qxmdrzCk9yvC7uezOs/SNJdM31A=",
+			"path": "github.com/vitelabs/go-vite/vite/net/circle",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "VG6ipPTxkgIM/G738A8fcDVI1/o=",
+			"path": "github.com/vitelabs/go-vite/vite/net/message",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "z1AbcF/HN5k8u3MItrbl8i3/ZRI=",
+			"path": "github.com/vitelabs/go-vite/vite/net/protos",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "Dgz+sSexNKeQVbBLLqL3CVox4zw=",
+			"path": "github.com/vitelabs/go-vite/vitepb",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "hMLQNkhoUfg+huyrXTO60Vnd+xg=",
+			"path": "github.com/vitelabs/go-vite/vm",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "WAWXlNJoOOLvUnXwpi+dwtYViTI=",
+			"path": "github.com/vitelabs/go-vite/vm/abi",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "DsjR+2ICQ6OUO2gqZlw9LlMqfw0=",
+			"path": "github.com/vitelabs/go-vite/vm/contracts",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "nMxqkd1IgXPw2I/SVWlnwUWTj70=",
+			"path": "github.com/vitelabs/go-vite/vm/contracts/abi",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "tWkPH19tkqYMWxUoFvEnVQllhik=",
+			"path": "github.com/vitelabs/go-vite/vm/quota",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "rr4NsCPsWYBDeBeAneRwZ2rAPMc=",
+			"path": "github.com/vitelabs/go-vite/vm/util",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "Ip5ttN/ekfYUbUzxnaD/EZiMN5U=",
+			"path": "github.com/vitelabs/go-vite/vm_db",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "HiUwkMhPp/DnsZEKhSHyYIfN/8s=",
 			"path": "github.com/vitelabs/go-vite/wallet",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "lWNhzhEcoXzDHVZcXSOl/YnCrhc=",
+			"checksumSHA1": "MwaQennJ/wiW1djUaOe24ca6HE4=",
 			"path": "github.com/vitelabs/go-vite/wallet/entropystore",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "gktmGetK+ubXQOz6nBFmso1TtQk=",
+			"checksumSHA1": "tqx7h/RH+ZK8Tgr+M4MMS71tOMw=",
 			"path": "github.com/vitelabs/go-vite/wallet/hd-bip/derivation",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
 			"checksumSHA1": "ENG4R4XcLjiEm25o7LfiFTZI8X8=",
 			"path": "github.com/vitelabs/go-vite/wallet/walleterrors",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "QozSpKy6n0NYLJS6jgcu/loL8iw=",
+			"path": "github.com/viteshan/go/support/errors",
+			"revision": "27571b485b07e24fe9d1f43f000811f8604af676",
+			"revisionTime": "2018-12-03T06:53:39Z"
+		},
+		{
+			"checksumSHA1": "qFs0grHlbWDk8I7+1+wWvHfmWxA=",
+			"origin": "github.com/vitelabs/go-vite/vendor/go.uber.org/atomic",
+			"path": "go.uber.org/atomic",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
 			"checksumSHA1": "ejjxT0+wDWWncfh0Rt3lSH4IbXQ=",
 			"origin": "github.com/vitelabs/go-vite/vendor/golang.org/x/crypto/blake2b",
 			"path": "golang.org/x/crypto/blake2b",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "IQkUIOnvlf0tYloFx9mLaXSvXWQ=",
+			"origin": "github.com/vitelabs/go-vite/vendor/golang.org/x/crypto/curve25519",
+			"path": "golang.org/x/crypto/curve25519",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
 			"checksumSHA1": "1MGpGDQqnUoRpv7VEcQrXOBydXE=",
 			"origin": "github.com/vitelabs/go-vite/vendor/golang.org/x/crypto/pbkdf2",
 			"path": "golang.org/x/crypto/pbkdf2",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
 			"checksumSHA1": "sx1nQShs40UKtcJZNJuvYtGesaI=",
 			"origin": "github.com/vitelabs/go-vite/vendor/golang.org/x/crypto/scrypt",
 			"path": "golang.org/x/crypto/scrypt",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "F+tqxPGFt5x7DKZakbbMmENX1oQ=",
+			"origin": "github.com/vitelabs/go-vite/vendor/golang.org/x/net/websocket",
+			"path": "golang.org/x/net/websocket",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
 			"checksumSHA1": "REkmyB368pIiip76LiqMLspgCRk=",
 			"origin": "github.com/vitelabs/go-vite/vendor/golang.org/x/sys/cpu",
 			"path": "golang.org/x/sys/cpu",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		},
 		{
-			"checksumSHA1": "4iJcSJnyQ9MkIUPwMuJ23VGjBVk=",
+			"checksumSHA1": "e66DmNWQKgI97tvj4BH7rHYnyJs=",
 			"origin": "github.com/vitelabs/go-vite/vendor/golang.org/x/sys/unix",
 			"path": "golang.org/x/sys/unix",
-			"revision": "87ed8091893fb503d2421a2d2faec889cfe9c69a",
-			"revisionTime": "2018-12-20T12:13:56Z"
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "DssjltU28TeBlMe16egT15lW0VA=",
+			"origin": "github.com/vitelabs/go-vite/vendor/golang.org/x/sys/windows",
+			"path": "golang.org/x/sys/windows",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "TM3Neoy1xRAKyZYMGzKc41sDFW4=",
+			"origin": "github.com/vitelabs/go-vite/vendor/gopkg.in/natefinch/lumberjack.v2",
+			"path": "gopkg.in/natefinch/lumberjack.v2",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
+		},
+		{
+			"checksumSHA1": "0xgs8lwcWLUffemlj+SsgKlxvDU=",
+			"origin": "github.com/vitelabs/go-vite/vendor/gopkg.in/natefinch/npipe.v2",
+			"path": "gopkg.in/natefinch/npipe.v2",
+			"revision": "15cb3faefc815504807681dff049c5ef7a747895",
+			"revisionTime": "2019-06-16T10:41:37Z"
 		}
 	],
 	"rootPath": "github.com/viteshan/gvite-demo"

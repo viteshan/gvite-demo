@@ -1,0 +1,42 @@
+syntax="proto3";
+
+package protos;
+
+message node {
+    bytes id = 1;
+    bytes endpoint = 2;
+    uint32 net = 3;
+    bytes ext = 4;
+
+    int64 activeAt = 5;
+    int64 checkAt = 6;
+}
+
+message ping {
+    bytes from = 1;
+    bytes to = 2;
+    uint32 net = 3;
+    bytes ext = 4;
+    int64 time = 5;
+}
+
+message pong {
+    bytes from = 1;
+    bytes to = 2;
+    bytes echo = 3;
+    uint32 net = 4;
+    bytes ext = 5;
+    int64 time = 6;
+}
+
+message findnode {
+    bytes target = 1;
+    uint32 count = 2;
+    int64 time = 3;
+}
+
+message neighbors {
+    repeated bytes nodes = 1;
+    bool last = 2;
+    int64 time = 3;
+}
